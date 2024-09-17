@@ -1,4 +1,4 @@
-Title: Welcome friends!
+Title: Welcome everyone!
 
 
 <!-- start slipsum code -->

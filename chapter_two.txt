@@ -3,3 +3,5 @@ this is after mixed reset.
 this is added line before soft reset.
 
 this is added line before second "soft reset" trial. I hope this works!
+
+see you in chapter three!!
